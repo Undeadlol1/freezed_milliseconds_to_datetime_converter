@@ -1,7 +1,7 @@
 version: 1.0.0
 name: freezed_milliseconds_to_datetime_converter
 description: Easily transform your int properties into DateTimes.
-homepage: https://github.com/Undeadlol1/freezed_milliseconds_to_datetime_converter
+repository: https://github.com/Undeadlol1/freezed_milliseconds_to_datetime_converter
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
